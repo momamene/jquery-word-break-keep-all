@@ -1,0 +1,26 @@
+{
+  "name": "jquery-word-break-keep-all",
+  "version": "1.3.0",
+  "homepage": "https://github.com/mytory/jquery-word-break-keep-all",
+  "authors": [
+    "Ahn Hyoung-woo <mytory@gmail.com>"
+  ],
+  "description": "Not in latin letter, break line by a word, not a letter. This is like CSS word-break: keep-all property that only be in IE.",
+  "main": "jquery.word-break-keep-all.min.js",
+  "keywords": [
+    "word",
+    "beak",
+    "keep-all",
+    "korean",
+    "parse",
+    "polyfill"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
